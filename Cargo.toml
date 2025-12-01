@@ -47,4 +47,8 @@ path= "src/1018_prefixes_div_by5.rs"
 name="1015"
 path= "src/1015_smallest_repunit_div_by_k.rs"
 
+[[bin]]
+name="3512"
+path= "src/3512_min_operations.rs"
+
 [dependencies]
