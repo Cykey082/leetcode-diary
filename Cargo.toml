@@ -51,4 +51,8 @@ path= "src/1015_smallest_repunit_div_by_k.rs"
 name="3512"
 path= "src/3512_min_operations.rs"
 
+[[bin]]
+name="3623"
+path="src/3623_count_trapezoids.rs"
+
 [dependencies]
